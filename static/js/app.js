@@ -1,6 +1,6 @@
 // from data.js
 const tableData = data;
-console.log(data.length)
+
 
 // get table references
 var tbody = d3.select("tbody");
