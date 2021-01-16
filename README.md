@@ -42,15 +42,20 @@ Figures 3-5 are the examples of the filtered data. [Fig. 3](screenshots/3.png), 
 |*Fig. 3: filtered sightings based on only the country(Canada)*|
 :--:
 |<img src="screenshots/3.png" width="600" style="border: 1px solid black">|
+
 &nbsp;
+
 |*Fig. 4: filtered sightings based on the country (Canada) and city (London)*|
 :--:
 |<img src="screenshots/4.png" width="600" style="border: 1px solid black">|
+
 &nbsp;
+
 |*Fig. 5: filtered sightings based on the country (US), state (CA), date (1/1/2010) and shape (Triangle)*|
 :--:
 |<img src="screenshots/5.png" width="600" style="border: 1px solid black">|
 </center>
+
 &nbsp;
 
 In order to clear the filters, user can refreh the page, click on the "UFO Sithings" link at the top left corner of the page or delete the values in the filter boxes manually.
