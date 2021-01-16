@@ -7,7 +7,7 @@ In this project we are creating an interactive web page to show the information 
 
 ### **Purpose**
 
-Our source data for this project ([UFO sightings data](static/js/data.js)) contains more than 100 records of UFO sightings in different places in north America. One of the records in this file is shown in Fig. 1.
+Our source data for this project ([UFO sightings data](static/js/data.js)) contains more than 100 records of UFO sightings in different places in north America. One of the records in this file is shown in [Fig. 1](screenshots/data_sample.png).
 
 
 <center>
@@ -24,7 +24,7 @@ Using the provided data we created a webpage to show the records with some optio
 ## **Results**  
 
 In this project we used HTML and JavaScript to create an interactive webpage to present the information in a table and enable the users to filter the data in that table based on the date, city, state, country and the shape of the observed object.  
-first we used the javascript to load all the data into the table once the page is opened.The initial look of the webpage is shown in Fig. 2:
+first we used the javascript to load all the data into the table once the page is opened.The initial look of the webpage is shown in [Fig. 2](screenshots/wp_nofilter.png):
 
 <center>
 
@@ -35,7 +35,7 @@ first we used the javascript to load all the data into the table once the page i
 &nbsp;
 
 then we wrote a code in javascript to search and filter the data based on the values entered by the user in the search boxes (on the left of the table in Fig. 2) and recreate the table to show the desired information. It can bee seen in Fig. 2, that there are examples of the type and format of the data each filter box accepts as input. users can filter the data by simply enter their desired option in the filter boxes and press enter or click somewhere else on the page, as soon as the value in the filter box changes the data corresponding to that criteria will be shown in the table. these filters can be used individually or in the combination with one another. 
-Figures 3-5 are the examples of the filtered data.[Fig. 3](stscreenshots/3.png), shows the data filtered for  the sightings in Canada, in [Fig. 4](stscreenshots/4.png) we can see  the filtered data for the UFO sightings in the city of London in Canada and [Fig. 5](stscreenshots/5.png), shows the sightings on 1/1/2010 in california state in USA and in the shape of a triangle.
+Figures 3-5 are the examples of the filtered data. [Fig. 3](screenshots/3.png), shows the data filtered for  the sightings in Canada, in [Fig. 4](screenshots/4.png) we can see  the filtered data for the UFO sightings in the city of London in Canada and [Fig. 5](screenshots/5.png), shows the sightings on 1/1/2010 in california state in USA and in the shape of a triangle.
 
 <center>
 
