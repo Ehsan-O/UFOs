@@ -58,7 +58,8 @@ Figures 3-5 are the examples of the filtered data. [Fig. 3](screenshots/3.png), 
 
 &nbsp;
 
-In order to clear the filters, user can refreh the page, click on the "UFO Sithings" link at the top left corner of the page or delete the values in the filter boxes manually.
+In order to clear the filters, user can refreh the page, click on the "UFO Sithings" link at the top left corner of the page or delete the values in the filter boxes manually.  
+The JavaScript code written for this project can be found in [app.js](static/js/app.js)
 
 
 ## **summary**  
